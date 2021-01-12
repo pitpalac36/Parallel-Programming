@@ -1,0 +1,3 @@
+Show{id='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, title='Show7f8d520a-0bd9-4e94-9100-0e35454356dc', price=100.0, sum=0}
+Show{id='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, title='Show6c8e5e65-e69d-47eb-9922-c80c3c73e194', price=200.0, sum=0}
+Show{id='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, title='Show87a8a618-4b11-4220-87a0-cbbd18e6b8f9', price=175.0, sum=0}

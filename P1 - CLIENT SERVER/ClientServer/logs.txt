@@ -1,0 +1,79 @@
+2021-01-12T22:37:03.384859600
+Show7f8d520a-0bd9-4e94-9100-0e35454356dc
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=8, sum=800.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=4, sum=400.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=3, sum=300.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=7, sum=700.0}
+2200
+
+Show6c8e5e65-e69d-47eb-9922-c80c3c73e194
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=2, sum=400.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=5, sum=1000.0}
+1400
+
+Show87a8a618-4b11-4220-87a0-cbbd18e6b8f9
+Sale{showId='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, noSoldSeats=6, sum=1050.0}
+1050
+
+SOLD TOTAL SISTEM : 4650  SOLD TOTAL CALCULAT : 4650
+CORECT
+
+2021-01-12T22:37:23.395155400
+Show7f8d520a-0bd9-4e94-9100-0e35454356dc
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=8, sum=800.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=4, sum=400.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=3, sum=300.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=7, sum=700.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=2, sum=200.0}
+2400
+
+Show6c8e5e65-e69d-47eb-9922-c80c3c73e194
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=2, sum=400.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=5, sum=1000.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=7, sum=1400.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=1, sum=200.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=10, sum=2000.0}
+5000
+
+Show87a8a618-4b11-4220-87a0-cbbd18e6b8f9
+Sale{showId='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, noSoldSeats=6, sum=1050.0}
+Sale{showId='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, noSoldSeats=8, sum=1400.0}
+Sale{showId='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, noSoldSeats=4, sum=700.0}
+3150
+
+SOLD TOTAL SISTEM : 10550  SOLD TOTAL CALCULAT : 10550
+CORECT
+
+2021-01-12T22:37:43.399493700
+Show7f8d520a-0bd9-4e94-9100-0e35454356dc
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=8, sum=800.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=4, sum=400.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=3, sum=300.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=7, sum=700.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=2, sum=200.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=4, sum=400.0}
+Sale{showId='7f8d520a-0bd9-4e94-9100-0e35454356dc', date=2020-01-02, noSoldSeats=3, sum=300.0}
+3100
+
+Show6c8e5e65-e69d-47eb-9922-c80c3c73e194
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=2, sum=400.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=5, sum=1000.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=7, sum=1400.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=1, sum=200.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=10, sum=2000.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=2, sum=400.0}
+Sale{showId='6c8e5e65-e69d-47eb-9922-c80c3c73e194', date=2020-01-02, noSoldSeats=2, sum=400.0}
+5800
+
+Show87a8a618-4b11-4220-87a0-cbbd18e6b8f9
+Sale{showId='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, noSoldSeats=6, sum=1050.0}
+Sale{showId='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, noSoldSeats=8, sum=1400.0}
+Sale{showId='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, noSoldSeats=4, sum=700.0}
+Sale{showId='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, noSoldSeats=5, sum=875.0}
+Sale{showId='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, noSoldSeats=1, sum=175.0}
+Sale{showId='87a8a618-4b11-4220-87a0-cbbd18e6b8f9', date=2020-01-02, noSoldSeats=4, sum=700.0}
+4900
+
+SOLD TOTAL SISTEM : 13800  SOLD TOTAL CALCULAT : 13800
+CORECT
+
