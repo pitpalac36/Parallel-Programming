@@ -42,13 +42,14 @@ public class Worker {
     private void sendSales() {
         try {
             List<Integer> seats = new ArrayList<>();
-            int nrSeatsWanted = Math.min(random.nextInt(10) + 1, ticketsAvailable.size());
+            String targetShowId = ticketsAvailable.get(random.nextInt(ticketsAvailable.size())).getShowId();
+            List<Ticket> targetTickets = ticketsAvailable.stream().filter(x -> x.getShowId().equals(targetShowId)).collect(Collectors.toList());
+            int nrSeatsWanted = Math.min(random.nextInt(10) + 1, targetTickets.size());
             for (int i = 0; i < nrSeatsWanted; i++) {
-                //  clientul stie ce locuri sunt disponibile si alege dintre acelea
                 if (seats.size() == nrSeatsWanted)
                     break;
-                int randomIndex = random.nextInt(ticketsAvailable.size());
-                int seat = ticketsAvailable.get(randomIndex).getSeat();
+                int randomIndex = random.nextInt(targetTickets.size());
+                int seat = targetTickets.get(randomIndex).getSeat();
                 if (!seats.contains(seat)) {
                     seats.add(seat);
                 }
@@ -57,7 +58,7 @@ public class Worker {
                 System.out.println("No more tickets available!!");
                 return;
             }
-            Reservation reservation = new Reservation(ticketsAvailable.get(random.nextInt(ticketsAvailable.size())).getShowId(), seats);
+            Reservation reservation = new Reservation(targetShowId, seats);
             System.out.println("Sent reservation to server : " + reservation.toString());
             outputStream.writeObject(reservation);
             boolean ok = inputStream.readBoolean();
