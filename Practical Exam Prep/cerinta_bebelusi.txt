@@ -1,0 +1,14 @@
+				Bebelusi
+
+
+Avem n parinti care trebuie sa-si alimenteze bebelusii la anumite intervale de timp.
+
+Deoarece copiii au varste diferite, fiecare parinte trebuie sa fie atentionat la intervale de timp diferite. 
+
+Unitatea de timp a ceasului este secunda, iar intervalele de timp sunt de ordinul secundelor.
+
+Scrieti un program paralel care simuleaza comportamentul descris mai sus.
+
+In fisierul "out.txt" ceasul afiseaza timpul, iar fiecare parinte afieaza momentulde timp si actiunea pe care a efectuat-o (ex: ora: 8:03:15 - "parinte 1 - alimentat copil"). 
+
+Ceasul porneste din momentul 0. Toate persoanele folosesc acelasi ceas. Variabila n si intervalele de timp (delta[i]) se citesc de la tastatura.
